@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package csigaverseny;
 
 /**
@@ -10,12 +6,18 @@ package csigaverseny;
  */
 public class Csiga {
     
+    private int id;
     private String szin;
     private int osszTav;
     
-    public Csiga(String szin){
+    public Csiga(int id, String szin){
+        this.id = id;
         this.szin = szin;
         this.osszTav = 0;
+    }
+    
+    public int getId(){
+        return this.id;
     }
     
     public String getSzin(){
