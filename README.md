@@ -1,2 +1,2 @@
 # Csigaverseny
-Beadando hai feladat, GDE 2024 tavasz, 'Elosztott alkalmazasok'.
+Beadando hazi feladat / 1, GDE 2024 tavasz, 'Elosztott alkalmazasok' kurzus.
